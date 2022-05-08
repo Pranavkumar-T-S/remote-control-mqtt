@@ -1,0 +1,8 @@
+{
+  "emblab": {
+    "iotremote": {
+      "fan1": "OFF",
+      "light1": "OFF"
+    }
+  }
+}
